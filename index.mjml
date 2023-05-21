@@ -1,0 +1,151 @@
+<mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section background-color="#ffffff">
+      <mj-column width="50%">
+        <mj-image
+          href="#"
+          src="img/ralphlauren.png"
+          alt="Ralph Lauren logo"
+          align="center"
+          padding="10px"
+        ></mj-image>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-navbar
+          base-url="#"
+          hamburger="hamburger"
+          ico-color="#fa8739"
+          padding-top="5px"
+        >
+          <mj-navbar-link href="#" color="#000000"
+            >home</mj-navbar-link
+          >
+          <mj-navbar-link href="#" color="#000000"
+            >gifts</mj-navbar-link
+          >
+          <mj-navbar-link href="#" color="#000000"
+            >sale</mj-navbar-link
+          >
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+     <mj-section background-color="#72A0C1" padding-bottom="0px" padding-top="0">
+      <mj-column width="200px">
+        <mj-text align="left" color="#fff" font-size="40px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p style="font-size: 17px;">SPRING PROMO</p>
+          <p>25%</p>
+          <p>OFFER</p>
+          <p style="font-size: 13px">All new spring styles are in stock and summer wear is here<br /></p>
+        </mj-text>
+        <mj-button background-color="#fff" color="#28a745" font-size="16px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-left="25px" padding-right="25px" padding-bottom="10px">SHOP NOW</mj-button>
+      </mj-column>
+      <mj-column width="400px">
+        <mj-image src="img/hello_there.jpg" alt="Hello There" align="center" border="none" width="400px" height="400px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#2f323b" padding-bottom="0px" padding-top="0">
+      <mj-column width="25%">
+        <mj-image src="img/box.png" alt="Box free shipping" align="center" border="none" width="42px" padding-left="0px" padding-right="0px" padding-bottom="10px" padding-top="10px"></mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+          <p>FREE SHIPPING ON ORDER <span style="font-weight: bold; color: #28a745;">OVER $50</span></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px">
+    <mj-column vertical-align="bottom">
+        <mj-image src="img/greenpolo.png" alt="Beyond backpack" align="center" border="none" width="178px" padding-left="0px" padding-right="0px" padding-bottom="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Men's Polo Shirt</p>
+          <p style="color: #28a745;">$45</p>
+        </mj-text>
+        <mj-button background-color="#28a745" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="img/bluepolo.png" alt="Men's Polo Shirt" align="center" border="none" width="209px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="30px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>Men's Polo Shirt</p>
+          <p style="color: #28a745;">$65</p>
+        </mj-text>
+        <mj-button background-color="#28a745" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="img/teddypolo.png" alt="Men's Polo Shirt" align="center" border="none" width="182px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="30px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0px">
+          <p>Men's Polo Shirt</p>
+          <p style="color: #28a745;">$85</p>
+        </mj-text>
+        <mj-button background-color="#28a745" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+    </mj-section>
+        <mj-section background-color="#fff" padding-bottom="20px">
+      <mj-column vertical-align="bottom">
+        <mj-image src="img/hat.png" alt="hat" align="center" border="none" width="129px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>POLO CAP</p>
+          <p style="color: #28a745;">20&#x20AC;</p>
+        </mj-text>
+        <mj-button background-color="#28a745" color="#fff" font-size="13px" align="center" border="none" padding="15px 30px" border-radius="3px" href="#" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="img/meshpolo.png" alt="Sketch floral" align="center" border="none" width="208px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>MERMAN POLO</p>
+          <p style="color: #28a745;">$45</p>
+        </mj-text>
+        <mj-button background-color="#28a745" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+      <mj-column vertical-align="bottom">
+        <mj-image src="img/teddybear.png" alt="Teddy Bear polo shirt" align="center" border="none" width="208px" padding-left="0px" padding-right="0px" padding-bottom="20px" padding-top="20px"></mj-image>
+        <mj-text font-weight="bold" align="center" color="#000" font-size="15px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>TEDDY BEAR SHIRT</p>
+          <p style="color: #28a745;">$45</p>
+        </mj-text>
+        <mj-button background-color="#28a745" color="#fff" font-size="13px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-bottom="10px" padding-top="0">BUY NOW</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#2f323b" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-image src="http://191n.mj.am/img/191n/3s/x47.png" alt="Cards" width="72px"></mj-image>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size: 15px;font-weight: bold;">PAYMENT METHODS</p>
+          <p>We accept all majors payments options</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="http://191n.mj.am/img/191n/3s/x48.png" alt="Currencies" align="center" border="none" width="70px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="10px"></mj-image>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size: 15px;font-weight: bold;">CURRENCIES CHOICE</p>
+          <p>You have the choice to pay with your own currencies</p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="http://191n.mj.am/img/191n/3s/x4y.png" alt="Express" align="center" border="none" width="82px" padding-left="25px" padding-right="25px" padding-bottom="8px" padding-top="10px"></mj-image>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size: 15px;font-weight: bold;">EXPRESS SHIPPING</p>
+          <p>Delivered tomorrow before noon</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#72A0C1" padding-bottom="20px" padding-top="0">
+      <mj-column>
+        <mj-image src="img/ralphlauren.png" alt="Ralph Lauren logo" align="center" border="none" width="180px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="10px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="center" color="#fff" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><a href="https://mjml.io" style="text-decoration: none; color: inherit;">Privacy policy</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"></mj-social-element>
+          <mj-social-element name="google" href="[[SHORT_PERMALINK]]"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
