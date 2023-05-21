@@ -1,5 +1,5 @@
 <mjml>
-  <mj-body background-color="#d6dde5">
+  <mj-body background-color="#000">
     <mj-section background-color="#ffffff">
       <mj-column width="50%">
         <mj-image
@@ -31,13 +31,13 @@
     </mj-section>
      <mj-section background-color="#72A0C1" padding-bottom="0px" padding-top="0">
       <mj-column width="200px">
-        <mj-text align="left" color="#fff" font-size="40px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+        <mj-text align="left" color="#ffffff" font-size="40px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
           <p style="font-size: 17px;">SPRING PROMO</p>
           <p>25%</p>
           <p>OFFER</p>
           <p style="font-size: 13px">All new spring styles are in stock and summer wear is here<br /></p>
         </mj-text>
-        <mj-button background-color="#fff" color="#28a745" font-size="16px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-left="25px" padding-right="25px" padding-bottom="10px">SHOP NOW</mj-button>
+        <mj-button background-color="#ffffff" color="#28a745" font-size="16px" align="center" padding="15px 30px" border-radius="3px" href="#" padding-left="25px" padding-right="25px" padding-bottom="10px">SHOP NOW</mj-button>
       </mj-column>
       <mj-column width="400px">
         <mj-image src="img/hello_there.jpg" alt="Hello There" align="center" border="none" width="400px" height="400px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
